@@ -1,0 +1,91 @@
+.jumbotron {
+  background-color: steelblue !important;
+  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.9));
+  background: -o-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.9));
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.9));
+  height: 100%;
+  width: 100%;
+  margin-bottom: 0;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  width: 100%;
+  padding: 10px;
+}
+
+.header {
+  color: steelblue !important;
+  font-size: 40px;
+}
+
+.question {
+  font-size: 30px;
+}
+
+.description {
+  font-size: 20px;
+}
+
+.add {
+  width: 500px;
+}
+
+.form-control {
+  width: 100px;
+}
+
+.label-component {
+  width: 150px;
+}
+
+.component-spacing {
+  padding: 10px;
+}
+
+.input-spacing {
+  width: 150px;
+}
+
+.footer-text {
+  color: white;
+}
+
+.answer-col {
+  width: 150px;
+}
+
+.answer-answeredby-col {
+  font-size: 22px;
+}
+
+.answer-answer-col {
+  font-size: 18px;
+}
+
+.answer-supporting-col {
+  font-size: 16px;
+}
+
+.likes-col {
+  width: 150px;
+}
+
+.answer-box {
+  background-color: #ebebeb;
+  margin: 20px;
+  padding: 20px;
+}
+
+.answers {
+  padding: 20px;
+}
+
+.like-btn-col {
+  width: 150px;
+}
+
+.button {
+  margin-left: 20px;
+}
