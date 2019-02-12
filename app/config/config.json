@@ -14,10 +14,7 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "b560e651747489",
-    "password": "2bc600a4",
-    "database": "heroku_4433f92c5d249e7",
-    "host": "127.0.0.1",
+    "use_env_variable": "JAWSDB_URL",
     "dialect": "mysql"
   }
 }
